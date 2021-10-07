@@ -12,4 +12,5 @@ I've collected Webtoon (for definition check out [this](https://en.wikipedia.org
 - [Face to Webtoon](https://github.com/sangyun884/Face2Webtoon)
 
 ## Webtoon face manipulation
+- [Webtoon FaceSwap](https://github.com/jis478/Webtoon-FaceSwap/blob/main/README.md)
 

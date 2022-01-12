@@ -4,7 +4,7 @@ I've collected Webtoon (for definition check out [this](https://en.wikipedia.org
 
 
 ## Face to Webtoon translation 
-- [Webtoon Stylization](https://github.com/jis478/Webtoon-Anime-Stylization)
+- [Face Cartoonization](TBD)
 
 ## Webtoon face generation 
 - [Caroon-StyleGANV2](https://github.com/happy-jihye/Cartoon-StyleGAN) 

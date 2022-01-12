@@ -1,4 +1,4 @@
-# Awesome-Webtoon-Models
+# Awesome-Webtoon-AI-Models
 
 I've collected Webtoon (for definition check out [this](https://en.wikipedia.org/wiki/Webtoon)) deep learning models & papers in this repo. They've mostly come from the computer vision field but I will expand my search space into the other fields, including NLP and DS. 
 

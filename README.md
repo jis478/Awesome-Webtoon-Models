@@ -4,7 +4,8 @@ I've collected Webtoon (for definition check out [this](https://en.wikipedia.org
 
 
 ## Photo / video webtoonization 
-- [WebtoonMe](https://github.com/webtoon/WebtoonMe)
+- [WebtoonMe](https://github.com/webtoon/WebtoonMe) (SIGGRAPH TC 2023)
+- A FRAMEWORK FOR PORTRAIT STYLIZATION WITH SKIN-TONE AWARENESS AND NUDITY IDENTIFICATION (ICASSP 2024) 
 
 ## Webtoon face generation 
 - [Caroon-StyleGANV2](https://github.com/happy-jihye/Cartoon-StyleGAN) 
